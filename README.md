@@ -1,158 +1,144 @@
-<!-- HEADER ULTRA PRO -->
+<div align="center">
+  <img src="https://exploreapphq.com/apple-touch-icon.png" width="120"/>
+</div>
+
+# <div align="center">Josvier Rodríguez</div>
+### <div align="center">CEO & Lead Engineer @ Explore Atlas</div>
+### <div align="center">Full-Stack Developer • AI Trainer • Data Analyst</div>
+
+<br/>
+
+<div align="center">
+  🧊 <i>"You are always in the best position you can possibly be in."</i><br/>
+  🔥 <i>"Siempre estás en la mejor posición que puedes estar."</i>
+</div>
+
+<br/>
+
+---
+
+## 🌐 About Me  
+Ingeniero multidisciplinario con enfoque en **IA**, **desarrollo móvil**, **full-stack engineering** y **diseño de productos**.  
+Combino ingeniería profunda con visión estratégica para crear productos escalables y elegantes.
+
+Como **Founder & Lead Engineer de Explore Atlas**, construyo experiencias móviles de nueva generación con IA integrada, mapas universales, automatización, diseño premium y performance nativa.
+
+---
+
+# 🧩 Explore Atlas — My Startup
+
+<div align="center">
+  <img src="https://exploreapphq.com/apple-touch-icon.png" width="90"/>
+</div>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&pause=1000&color=3ABEFE&center=true&vCenter=true&width=650&lines=Josvier+Rodr%C3%ADguez;Software+Engineer+%7C+AI+%7C+Mobile+Dev;Founder+%2F+Product+Designer;Building+Explore+Atlas+%F0%9F%9A%80;Always+learning.+Always+shipping." alt="Typing SVG" />
+  Aplicación móvil de viajes con IA — iOS & Android  
+  <br/>
+  <strong>CEO • Lead Engineer • AI Lead • Product Designer</strong>
 </p>
+
+### 🔥 Tecnologías clave:
+- 🗺 **Universal Mapping System** (iOS / Android / Web) usando Google Maps  
+- 🧭 Motor de rutas dinámicas + IA (recomendaciones y pathfinding interno)  
+- 📱 App cross-platform con **React Native + Expo**  
+- 🛠 Sistema de recomendaciones turísticas usando embeddings + LLM  
+- 🔐 Arquitectura segura con Firebase + EAS  
+- 🎨 UI/UX totalmente diseñada en Figma (estilo Apple minimalista)
+
+---
+
+# 🧠 Artificial Intelligence & Data Work
+
+### 🔬 Proyectos reales:
+- **Predicción de parámetros sanguíneos** usando **ARIMAX + Machine Learning**  
+- **Sistema para constructoras** con IA para:  
+  - cálculo automático de espacios  
+  - estimación de materiales  
+  - distribución inteligente  
+  - proyecciones de costo/tiempo  
+- **Modelos de clasificación** en Python  
+- **Forecasting de series de tiempo**  
+- Integración de IA en productos móviles y backend  
+
+---
+
+# 🏗 Software Engineering Work
+
+### Lenguajes & Frameworks:
+- React Native / Expo  
+- TypeScript / JavaScript  
+- Python (ML, AI, CV)  
+- Flutter  
+- Node.js  
+- Firebase  
+- PostgreSQL / Supabase  
+
+### Áreas:
+- Mobile Development (iOS & Android)  
+- Full-Stack Engineering  
+- AI & Machine Learning  
+- Data Analysis  
+- DevOps (EAS, CI/CD, environments)  
+- Product Design & Architecture  
+
+---
+
+# 🎓 Education
 
 <div align="center">
 
-### 👋 Hi, I'm **Josvier Rodríguez**
-**Software Engineer • Mobile Developer • AI Builder • Product Designer • Startup Founder**
-
-🇩🇴 Dominican Republic • 🎓 CS @ PUCMM • 🚀 Founder of **Explore Atlas**
+| Certificación | Universidad | Año |
+|--------------|-------------|------|
+| **CS109xa: Machine Learning & AI with Python** | Harvard University | 2025 |
+| **HTML, CSS & JavaScript for Web Developers** | Johns Hopkins University | 2025 |
 
 </div>
 
 ---
 
-# 🧭 **Explore Atlas** — AI-Powered Travel Platform  
-### 🚀 Founder • CEO • Lead Engineer • Product Designer
+# 🛠 Tech Stack
 
-**Explore Atlas** is an **AI-driven travel app** for iOS & Android that generates personalized routes, recommends places, collaborates in real time, and helps people travel smarter.
-
-### 🧠 What I built:
-- Complete **mobile codebase** (React Native + Expo + EAS)
-- **AI routing engine** + GPT-powered suggestions
-- **Explore With Me** → Real-time collaborative trips
-- **Interactive Maps** → Google Maps SDK + custom tiles + caching
-- **Design system** 100% crafted in Figma + implemented pixel-perfect
-- **Auth, Firestore, Cloud Functions, Storage**
-- **RevenueCat subscriptions**
-- **Image optimizations, caching, offline mode, deep linking**
-
-### 📌 Current goals:
-- Improve map rendering performance  
-- Release v2.0 with AI trip planner  
-- Expand to 3 regions  
-
-> *Explore Atlas is my flagship startup. I'm building the entire product end to end.*
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,expo,ts,js,python,firebase,flutter,nodejs,git,github,notion,figma" />
+</div>
 
 ---
 
-# 🧠 **MOSAIC — Academic Optimization Engine**  
-### Lead Software Engineer • Research Project
-
-A system to automate **university class schedules** using optimization, rule engines, and simulations.
-
-### My contributions:
-- Algorithm design (constraints, optimization heuristics)
-- Data modeling + full architecture
-- UI/UX & interfaces  
-- Technical research writing  
-
----
-
-# 📱 **Mobile Dev Projects**
-
-### 🎮 Pokédex (Flutter + GraphQL + Hive)
-- Full UI built in Flutter  
-- Live data via GraphQL  
-- Hive caching  
-- Custom animations & Figma-like UI  
-
-### 📱 Tourism Apps (React Native)
-- Maps, custom navigation flows  
-- Fully designed in Figma  
-- Production-ready mobile apps  
-
----
-
-# 🔐 Cybersecurity & Audits  
-### Skills:
-- OWASP Top 10  
-- Nmap + Gobuster + SQLi labs  
-- Vulnerability assessments (VM labs)  
-- Secret management + API key hardening  
-
-### Example achievements:
-- Hardening Explore Atlas API architecture  
-- Removing leaked API keys, migrating env vars  
-- Secure EAS / Expo pipeline design  
-
----
-
-# 🧠 Artificial Intelligence / ML  
-### Projects:
-- YOLOv8 model training for **dental lesion detection**
-- Dataset cleaning + bounding annotations  
-- Model validation with ethical review workflow  
-- API inference systems  
-
----
-
-# 🛠️ **Tech Stack**
-
-## 👨‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,dart,java,c" />
-</p>
-
-## 📱 Mobile & Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,reactnative,flutter,expo,html,css" />
-</p>
-
-## ⚙️ Backend & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,firebase,gcp,cloudflare,postgres,mongodb" />
-</p>
-
-## 🧰 Tools & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,figma,postman,vscode,androidstudio" />
-</p>
-
----
-
-# 📊 GitHub Power Stats
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JosvierR&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=JosvierR&show_icons=true&theme=transparent&hide_border=true" height="160"/>  
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosvierR&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosvierR&layout=compact&theme=transparent&hide_border=true" height="160"/>  
 
-<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=JosvierR&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JosvierR&theme=transparent&hide_border=true" height="160"/>  
 
 </div>
 
 ---
 
-# 🏆 Badges & Achievements  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JosvierR&theme=tokyonight&no-frame=true&column=6" />
-</p>
+# 🚀 What I'm Building Now
+
+- Explore Atlas — features avanzadas de IA, mapas, recomendación y viajes colaborativos  
+- Sistema de rutas internas con pathfinding (Dijkstra + heurísticas propias)  
+- Dashboard interno con predicciones de tráfico + seguridad  
+- Algoritmos propios de recomendación  
+- Infraestructura móvil nativa optimizada para performance  
 
 ---
 
-# 🎯 Current Focus (2025)
-- Shipping Explore Atlas v2.0  
-- Deploying AI trip planner  
-- Migrating all repos to clean monorepo structure  
-- Scaling my mobile dev skills  
-- Preparing for potential YC or startup competitions  
+# 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/josvier-rodriguez-4b053730a/)  
+[![Website](https://img.shields.io/badge/Website-ExploreAtlas-blue?style=for-the-badge)](https://exploreapphq.com/)
+
+</div>
 
 ---
 
-# 📫 **Let’s connect**
-- ✉️ Email: **josvierp@gmail.com**
-- 🌐 Portfolio (soon)
-- 💼 LinkedIn (soon)
-- 🧪 Explore Atlas website (coming)
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JosvierR&color=blueviolet&style=flat-square" />
-</p>
-
-<p align="center"><strong>Always learning. Always building. Always shipping. 🚀</strong></p>
+<div align="center">
+  <sub>Made with vision, AI and love. © Josvier Rodríguez</sub>
+</div>
