@@ -10,20 +10,23 @@
 <br/>
 
 <div align="center">
-  🧊 <i>"You are always in the best position you can possibly be in."</i><br/>
-  🔥 <i>"Siempre estás en la mejor posición que puedes estar."</i>
+  🧊 <i>"You are always in the best position you can possibly be in."</i>
 </div>
 
 <br/>
 
 ---
 
-## 🌎 About Me  
-I’m a multidisciplinary engineer focused on **Artificial Intelligence**, **Mobile Development**, **Full-Stack Engineering**, and **Data-Driven Product Design**.  
+## 🌎 About Me
+I am a multidisciplinary engineer specializing in **Artificial Intelligence**, **Mobile Development**, **Full-Stack Engineering**, and **Data-Driven Product Architecture**.
 
-With deep technical expertise and a strong design sense, I build products that blend **precision engineering** with **Apple-style minimalism and usability**.
+My work combines:
+- precise engineering  
+- minimal, Apple-style product design  
+- deep AI integration  
+- and scalable multi-platform systems  
 
-As **Founder & Lead Engineer of Explore Atlas**, I lead architecture, AI systems, product vision, mobile development, and high-performance UI/UX.
+As **Founder & Lead Engineer of Explore Atlas**, I design and build next-generation tourism technology with intelligent routing, real-time data, recommendation systems, and clean user-centered design.
 
 📧 **Email:** josvierp@gmail.com
 
@@ -36,94 +39,94 @@ As **Founder & Lead Engineer of Explore Atlas**, I lead architecture, AI systems
 </div>
 
 <p align="center">
-  AI-powered tourism app — iOS & Android <br/>
+  AI-powered tourism app for iOS & Android <br/>
   <strong>CEO • Lead Engineer • AI Lead • Product Designer</strong>
 </p>
 
-### 📱 Official App Links  
-- **App Store:** https://apps.apple.com/us/app/explore-tourism/id6748882805  
-- **Google Play:** https://play.google.com/store/apps/details?id=com.explore.miapp&hl=en_US  
+### 📱 Official App Store Links  
+- **iOS:** https://apps.apple.com/us/app/explore-tourism/id6748882805  
+- **Android:** https://play.google.com/store/apps/details?id=com.explore.miapp&hl=en_US  
 
-### 🚀 Core Technologies I built:
-- 🗺 **Universal Mapping System** (Mobile + Web)  
+### 🚀 Core Technology Built
+- 🗺 **Universal Mapping System** (iOS, Android, Web)  
 - 🧭 Internal pathfinding engine (Dijkstra + custom heuristics)  
-- 🤖 AI-based route prioritization + safety scoring  
-- 🧠 Recommendation engine (Embeddings + LLMs)  
-- 📱 High-performance mobile app (React Native + Expo)  
-- 🔐 Secure cloud architecture (Firebase + EAS)  
-- 🎨 Full product design in Figma (Apple-style minimalism)
+- 🤖 AI-based route scoring & safety ranking  
+- 🧠 Recommendation engine using embeddings + LLMs  
+- 📱 High-performance React Native + Expo mobile architecture  
+- 🔐 Secure and scalable Firebase + EAS cloud setup  
+- 🎨 Complete product design system in Figma (Apple-style minimalism)
 
-### 🎞 Animated Demo  
+### 🎞 Animated Preview  
 <div align="center">
   <img src="https://i.imgur.com/bM2I2Kj.gif" width="290"/>
 </div>
 
 ---
 
-# 🧠 Artificial Intelligence & Data Projects
+# 🧠 Artificial Intelligence & Data Science Projects
 
-### 🔬 1. Blood Parameter Forecasting System (ARIMAX + ML)  
-AI model that predicts medical blood parameters using ARIMAX, multivariate time series, and machine learning.
+### 🔬 1. **Blood Parameter Forecasting System (ARIMAX + ML)**
+A prediction model that forecasts medical blood parameters using multivariate time-series, ARIMAX, and machine-learning evaluation layers.
 
-### 🔬 2. Presidential Speech Impact Prediction Model  
-AI model that predicts **which U.S. states will be most influenced by a presidential speech**, based on:  
-- Emotional sentiment  
-- Historical approval trends  
-- Demographic alignment  
-- Linguistic tone  
-- Keyword emotional weight  
-- Regional political behavior  
+### 🔬 2. **Presidential Speech Impact Prediction (USA)**
+AI model that predicts **which U.S. states will be most influenced by a presidential speech** based on:
+- emotional sentiment  
+- linguistic tone analysis  
+- demographic compatibility  
+- historical approval trends  
+- regional political behavior  
+- psycholinguistic signal weighting  
 
-Built using **NLP, embeddings, sentiment analysis, psycholinguistics, time series correlation**, and **impact scoring layers**.
+Uses **NLP, embeddings, sentiment models, time-series correlations**, and multi-factor influence scoring.
 
-### 🔬 3. Construction AI System  
-A full platform for construction companies with:  
-- Automatic space optimization  
-- Material estimation  
-- Smart cost-time forecasting  
-- Structural layout assistance  
-- Multi-platform dashboard  
-- Mobile + Web integration  
+### 🔬 3. **AI-Powered Construction Software**
+Multi-platform system with:
+- automatic space optimization  
+- material estimation  
+- cost-time forecasting  
+- blueprint design assistance  
+- web dashboards  
+- mobile integration  
 
-### 🔬 4. Intelligent Billing / Invoicing Software  
-A modern billing platform with:  
-- Automated invoice generation  
-- Revenue forecasting  
-- Fraud detection (AI-based)  
-- Deep analytics dashboard  
-- Multi-tenant architecture  
+### 🔬 4. **Intelligent Billing / Invoicing Platform**
+A modern billing system with:
+- auto-generated invoices  
+- revenue forecasting  
+- fraud detection using AI  
+- multi-tenant database design  
+- financial analytics dashboards  
 
-### 🔬 5. Multiple Web Platforms  
-- AI dashboards  
-- Real-time maps  
-- Internal tools for data analysis  
-- Explore Atlas admin web  
-- Construction management web system  
+### 🔬 5. **Multiple Web Platforms**
+- real-time map dashboards  
+- AI analytics tools  
+- Explore Atlas internal management site  
+- construction intelligence dashboards  
+- predictive visualization tools  
 
 ---
 
 # 🏗 Engineering Stack
 
-### **Main Technologies**
+### **Languages & Frameworks**
 - React Native / Expo  
 - TypeScript / JavaScript  
-- Python (AI/ML/CV/NLP)  
+- Python (AI/ML/NLP/CV)  
 - Node.js  
 - Flutter  
-- Firebase / Firestore  
+- Firebase & Firestore  
 - PostgreSQL / Supabase  
 - Cloud Functions  
-- CI/CD (EAS, GitHub Actions)  
+- CI/CD: EAS, GitHub Actions  
 
-### **Core Focus Areas**
-- Mobile Engineering (iOS & Android)  
-- Full-Stack Systems  
-- AI Model Training & Evaluation  
-- Forecasting Models  
-- Sentiment/NLP Systems  
-- Data Analytics  
+### **Core Expertise**
+- Mobile Engineering (iOS + Android)  
+- Full-Stack Development  
+- AI Model Training & Deployment  
+- Time-Series Forecasting  
+- NLP & Sentiment Analysis  
+- Data Engineering & Analytics  
 - Product Architecture  
-- UI/UX Engineering  
+- Minimal UI/UX Engineering  
 
 ---
 
@@ -165,12 +168,12 @@ A modern billing platform with:
 
 # 🚀 What I'm Working On
 - Explore Atlas AI & Maps v4  
-- Advanced pathfinding engine  
+- Internal pathfinding and routing engine  
 - U.S. speech impact prediction model  
-- Construction AI multi-platform system  
-- Intelligent billing platform  
-- Internal analytics dashboards  
-- Multi-device web apps  
+- Construction intelligence platform  
+- Intelligent billing system  
+- Multi-platform AI dashboards  
+- Web tools for predictive analytics  
 
 ---
 
@@ -179,12 +182,12 @@ A modern billing platform with:
 <div align="center">
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/josvier-rodriguez-4b053730a/)  
-[![Website](https://img.shields.io/badge/Explore%20Atlas-Website-blue?style=for-the-badge)](https://exploreapphq.com/)
+[![Website](https://img.shields.io/badge/Explore%20Atlas-Official%20Website-blue?style=for-the-badge)](https://exploreapphq.com/)
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>Built with vision, AI, and precision — © Josvier Rodríguez</sub>
+  <sub>Built with vision, precision, and AI — © Josvier Rodríguez</sub>
 </div>
