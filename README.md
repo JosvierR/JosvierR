@@ -1,179 +1,148 @@
-<h1 align="center">Josvier Rodríguez</h1>
-<p align="center">
-  <strong>Software Engineer | Full-Stack, AI/ML, Mobile & Data Systems</strong>
-</p>
+<div align="center">
 
-<p align="center">
-  I build intelligent software products across web, mobile, backend, data, and cloud infrastructure.
-</p>
+# Josvier Rodríguez
 
-<p align="center">
-  <a href="mailto:josvierp@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/josvier-rodriguez-4b053730a">LinkedIn</a> •
-  <a href="https://josvierr.github.io/">Portfolio</a> •
-  <a href="https://github.com/JosvierR">GitHub</a>
-</p>
+### Full-Stack & AI Engineer  
+#### Web • Mobile • Backend • Data • AI/ML Systems
+
+I build intelligent software products with clean design, scalable architecture, and real-world impact.
+
+[Email](mailto:josvierp@gmail.com) • [LinkedIn](https://www.linkedin.com/in/josvier-rodriguez-4b053730a) • [Portfolio](https://josvierr.github.io/) • [GitHub](https://github.com/JosvierR)
+
+</div>
 
 ---
 
 ## About Me
 
-I am a software engineer focused on building production-oriented systems that combine full-stack development, artificial intelligence, data workflows, and clean product execution.
+I am a software engineer focused on building full-stack, AI-powered, and data-driven systems.
 
-My work spans:
-- full-stack web development
-- mobile engineering
-- backend systems and APIs
-- AI/ML integration
-- analytics dashboards
-- cloud deployment and infrastructure
+My work combines:
 
-I have worked on products involving recommendation systems, routing logic, forecasting, data visualization, internal management systems, logistics software, invoicing platforms, and AI-powered decision-support tools.
+- Full-stack web development
+- Mobile app development
+- Backend APIs and cloud systems
+- AI/ML and LLM integration
+- Data dashboards and forecasting tools
+- Clean, modern product design
 
----
-
-## Current Focus
-
-- Full-stack software engineering
-- AI/ML product integration
-- LLM-powered applications
-- Data-driven systems and analytics
-- Scalable web and mobile platforms
-- Cloud deployment workflows
+I like building software that is not only functional, but useful, scalable, and visually polished.
 
 ---
 
-## Selected Projects
+## Featured Work
 
-### Explore Atlas
-**AI-powered tourism and local discovery platform for iOS and Android**
+### Explore Atlas  
+**AI-powered tourism and local discovery app**
 
-- Contributed to the development of a mobile-first platform for travel discovery, planning, and route building
-- Worked across frontend, backend, product flows, and intelligent recommendation features
-- Built and improved functionality related to places, discovery, trip planning, route logic, and personalized user experiences
-- Integrated scalable mobile architecture and backend services for cross-platform product delivery
+A mobile platform for discovering places, planning trips, and building personalized routes.
 
-**Tech:** React Native, Expo, TypeScript, Firebase, APIs, mobile UI architecture
+**What I worked on:**
+- Mobile app development
+- Place discovery flows
+- Route planning features
+- AI-assisted recommendations
+- User experience and product logic
 
-**Links:**  
-- [iOS App](https://apps.apple.com/us/app/explore-tourism/id6748882805)  
-- [Android App](https://play.google.com/store/apps/details?id=com.explore.miapp&hl=en_US)
+**Tech:** React Native, Expo, TypeScript, Firebase, APIs
 
----
-
-### Donantes Inteligente
-**AI-based blood demand prediction platform for the Dominican Republic**
-
-- Built an AI-driven software platform to forecast blood demand using variables such as date, province, and blood type
-- Developed predictive workflows and analytics dashboards for operational planning and blood supply decision-making
-- Integrated data visualization and AI-assisted analysis to support healthcare-oriented decisions
-- Helped design a system focused on national-scale planning and demand visibility
-
-**Tech:** Python, Machine Learning, forecasting workflows, analytics dashboards, data visualization, backend services
+[App Store](https://apps.apple.com/us/app/explore-tourism/id6748882805) • [Google Play](https://play.google.com/store/apps/details?id=com.explore.miapp&hl=en_US)
 
 ---
 
-### KOUL
+### Donantes Inteligente  
+**AI-based blood demand prediction software for the Dominican Republic**
+
+A healthcare-focused platform built to predict blood demand by province, date, and blood type.
+
+**What I worked on:**
+- Machine learning prediction workflows
+- Blood demand forecasting
+- Data visualization
+- AI-assisted decision support
+- Analytics dashboard logic
+
+**Tech:** Python, Machine Learning, Forecasting, Data Visualization, Backend Services
+
+---
+
+### KOUL  
 **AI-assisted data operations and analytics platform**
 
-- Worked on a platform designed to transform raw business data into structured datasets, analytics workflows, and decision-ready outputs
-- Contributed to product logic for data ingestion, transformation, KPI visibility, and AI-assisted analysis
-- Supported development of data-centric interfaces and backend workflows for business intelligence use cases
+A platform designed to transform raw business data into structured insights, KPIs, and decision-ready analytics.
 
-**Tech:** Python, FastAPI, BigQuery, SQL, data pipelines, analytics systems, AI-assisted workflows
+**What I worked on:**
+- Data ingestion workflows
+- AI-assisted analysis
+- KPI and dashboard logic
+- Backend architecture
+- Business data modeling
 
----
-
-### CNE Management App
-**Business management platform for internal operations**
-
-- Built software for managing projects, employees, clients, contracts, invoices, and internal workflows
-- Worked on full-stack implementation for administration panels, process flows, and operational data handling
-- Helped centralize multiple business functions into a single digital system
-
-**Tech:** PHP, Laravel, MySQL, admin panels, REST workflows, business process systems
+**Tech:** Python, FastAPI, BigQuery, SQL, AI Workflows
 
 ---
 
-### All By City
-**Global business directory and discovery platform**
+### Business & Operations Software
 
-- Contributed to a directory-style platform focused on search, categorization, and discovery of businesses across locations
-- Worked on filters, search flows, business listing structure, content organization, and platform usability
-- Supported product functionality tied to location-based exploration and marketplace-style experiences
+I have also worked on several custom software systems, including:
 
-**Tech:** Laravel, PHP, MySQL, frontend development, search UX, platform architecture
+- Business management platforms
+- E-commerce and directory platforms
+- Transportation and logistics software
+- Invoice and billing systems
+- Sensor monitoring dashboards
+- Internal admin panels
 
----
-
-### Transportation System
-**Logistics and transport management software**
-
-- Built software for transport operations involving dispatch, fleet visibility, driver management, and reporting
-- Worked on dashboard flows and monitoring experiences tied to logistics processes
-- Helped structure tools for operational control and transport performance visibility
-
-**Tech:** PHP, Laravel, MySQL, dashboards, logistics workflows, operational systems
+**Tech:** PHP, Laravel, MySQL, React, APIs, dashboards, backend workflows
 
 ---
 
-### Intelligent Billing Platform
-**Billing and invoice management software**
-
-- Built functionality for invoice generation, financial process support, and document handling
-- Worked on internal business logic for billing operations and structured management workflows
-- Supported development of systems designed for administrative efficiency and operational clarity
-
-**Tech:** PHP, Laravel, MySQL, financial workflows, business systems
-
----
-
-### Sensor Load Monitoring Tools
-**Power, load, and sensor analysis software**
-
-- Worked on tools for monitoring power-related data, sensor-driven values, and analytical visualization
-- Built interfaces and logic to support interpretation of load behavior and operational metrics
-- Contributed to systems designed for technical monitoring and data visibility
-
-**Tech:** dashboards, data visualization, monitoring tools, analytics workflows
-
----
-
-## Technical Skills
+## Technical Stack
 
 ### Languages
-JavaScript, TypeScript, Python, PHP, SQL, HTML, CSS
+JavaScript • TypeScript • Python • PHP • SQL • HTML • CSS
 
-### Frontend
-React, React Native, Expo, responsive UI development, component-based architecture, mobile-first interfaces
+### Frontend & Mobile
+React • React Native • Expo • Responsive UI • Mobile-first design
 
 ### Backend
-Laravel, FastAPI, Node.js, Express, REST APIs, backend architecture, authentication flows, business logic implementation
+Laravel • FastAPI • Node.js • Express • REST APIs • Authentication • Admin panels
 
-### Databases / Data
-BigQuery, PostgreSQL, MySQL, MongoDB, Redis, Firebase, Firestore, SQL querying, analytics dashboards, data modeling
+### Databases & Data
+BigQuery • PostgreSQL • MySQL • MongoDB • Redis • Firebase • Firestore
 
-### AI / Machine Learning
-LLMs, Generative AI, Machine Learning, forecasting systems, recommendation logic, NLP-oriented workflows, AI-assisted product features
+### AI / ML
+LLMs • Generative AI • Machine Learning • Forecasting • Recommendation Systems • NLP Workflows
 
-### Cloud / Dev Tools
-Google Cloud Run, Docker, Git, GitHub Actions, Firebase services, deployment workflows, cloud-based app delivery
+### Cloud & Tools
+Google Cloud Run • Docker • Git • GitHub Actions • Firebase Services • Deployment Workflows
 
 ---
 
 ## Certifications
 
-- **AWS Academy Graduate – Cloud Developing – Training Badge** (2026)
-- **CS109xa: Machine Learning and AI with Python** — Harvard University (2025)
-- **HTML, CSS, and JavaScript for Web Developers** — Johns Hopkins University (2025)
-- **Fundamentals of Entrepreneurship: Thinking and Action** — University of California, Irvine (2026)
-- **HCIA-Security V4.0** — Huawei ICT Academy (if you want to keep it visible)
+- AWS Academy Graduate – Cloud Developing – Training Badge
+- CS109xa: Machine Learning and AI with Python — Harvard University
+- HTML, CSS, and JavaScript for Web Developers — Johns Hopkins University
+- Fundamentals of Entrepreneurship: Thinking and Action — University of California, Irvine
+- HCIA-Security V4.0 — Huawei ICT Academy
 
 ---
 
-## Connect
+## GitHub Activity
 
-- **Email:** [josvierp@gmail.com](mailto:josvierp@gmail.com)
-- **LinkedIn:** [josvier-rodriguez-4b053730a](https://www.linkedin.com/in/josvier-rodriguez-4b053730a)
-- **Portfolio:** [josvierr.github.io](https://josvierr.github.io/)
-- **GitHub:** [JosvierR](https://github.com/JosvierR)
+<div align="center">
+
+![Josvier's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosvierR&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosvierR&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+### Building intelligent software with precision, design, and AI.
+
+</div>
