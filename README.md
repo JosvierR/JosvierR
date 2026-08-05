@@ -1,178 +1,155 @@
 <div align="center">
 
-# 👋 Hey, I'm Josvier Rodríguez
+# Josvier Rodriguez
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=2500&pause=800&center=true&vCenter=true&width=700&lines=Full-Stack+%26+AI+Engineer;Mobile+%7C+Web+%7C+Backend+%7C+Data;Building+real+software+with+AI+and+clean+design" alt="Typing SVG" />
+### Software Engineer · Full-Stack · Backend · AI-Enabled Products
 
-### Software Engineer focused on Full-Stack Development, AI/ML, Mobile Apps & Data Systems
+Computer Science Engineering graduate with 2+ years of hands-on experience building and shipping web, mobile, backend, data, cloud, and AI-enabled products.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://josvierr.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://josvierr.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josvier-rodriguez-4b053730a)
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JosvierR)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josvierp@gmail.com)
+[![Explore](https://img.shields.io/badge/Explore-Product-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.exploreapphq.com/)
+
+**U.S. work authorized without sponsorship · Open to New York, New Jersey, and remote opportunities · English / Spanish**
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About
 
-I'm a young software builder focused on creating real products with **AI, clean interfaces, scalable systems, and strong technical execution**.
+I build practical software across the full product lifecycle: requirements, responsive interfaces, backend services, APIs, data workflows, authentication, testing, cloud deployment, and production iteration.
 
-I work across:
+My experience spans travel technology, healthcare, logistics, analytics, real estate, invoicing, and internal business operations. I work best on product-focused teams where engineers take ownership, communicate clearly, and turn ambiguous problems into maintainable solutions.
 
-- 📱 Mobile apps with React Native & Expo  
-- 🌐 Full-stack web platforms  
-- ⚙️ Backend APIs and business logic  
-- 🧠 AI/ML, LLMs, forecasting and recommendation systems  
-- 📊 Dashboards, data workflows and analytics  
-- ☁️ Cloud deployment and production-ready systems  
-
-> I like building software that looks good, works fast, and solves real problems.
+**Current focus:** Software Engineering, Full-Stack Development, Backend Systems, AI-Enabled Products, and Cloud Applications.
 
 ---
 
-## 🧩 Featured Projects
-
-### 🌎 Explore Atlas  
-**AI-powered tourism and local discovery app**
-
-Mobile platform for discovering places, planning trips, and building personalized routes.
-
-**Worked on:** mobile app, route logic, discovery flows, AI recommendations, UX, backend integrations.
-
-**Tech:**  
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-[App Store](https://apps.apple.com/us/app/explore-tourism/id6748882805) • [Google Play](https://play.google.com/store/apps/details?id=com.explore.miapp&hl=en_US)
-
----
-
-### 🩸 Donantes Inteligente  
-**AI-based blood demand prediction software for the Dominican Republic**
-
-Built an AI-powered system to forecast blood demand by **province, date, and blood type**, supporting better planning and visibility for national blood supply needs.
-
-**Worked on:** ML forecasting, analytics dashboard, backend logic, AI-assisted decision support, healthcare data workflows.
-
-**Tech:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=flat-square)
-![AI](https://img.shields.io/badge/AI-6E40C9?style=flat-square)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF6F00?style=flat-square)
-
----
-
-### 🧠 KOUL  
-**AI-assisted data operations and analytics platform**
-
-Platform designed to transform raw business data into structured datasets, KPIs, dashboards, and AI-assisted insights.
-
-**Worked on:** data ingestion, business modeling, AI analysis workflows, backend services, analytics logic.
-
-**Tech:**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
----
-
-### 🏢 Business & Operations Software
-
-I have also built and worked on:
-
-- 🧾 Invoicing and billing systems  
-- 🚚 Transportation and logistics software  
-- 🏙️ Business directory platforms  
-- 🏥 Clinical menu/internal management tools  
-- 🏠 Real estate decision platforms  
-- ⚡ Sensor load and power monitoring dashboards  
-- 🛒 E-commerce-style web platforms  
-- 🔐 Admin panels and internal tools  
-
-**Tech:**  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
----
-
-## 🛠️ Tech Stack
+## Core Technology Stack
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ### Frontend & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend & Databases
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 
-### AI, Data & Cloud
-![AI](https://img.shields.io/badge/Artificial_Intelligence-6E40C9?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-111827?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge)
-![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### Backend, Data & Cloud
 
----
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-## 🎓 Certifications
+### AI, Optimization & Engineering
 
-- ☁️ **AWS Academy Graduate – Cloud Developing – Training Badge**
-- 🧠 **CS109xa: Machine Learning and AI with Python** — Harvard University
-- 🌐 **HTML, CSS, and JavaScript for Web Developers** — Johns Hopkins University
-- 💼 **Fundamentals of Entrepreneurship: Thinking and Action** — University of California, Irvine
-- 🔐 **HCIA-Security V4.0** — Huawei ICT Academy
+`LLM integrations` · `Prompt workflows` · `Structured outputs` · `Recommendation systems` · `Forecasting` · `scikit-learn` · `pandas` · `OR-Tools CP-SAT` · `Tabu Search` · `REST APIs` · `Testing` · `CI/CD` · `Production debugging`
 
 ---
 
-## 📊 GitHub Stats
+## Selected Work
+
+### Explore — AI-Powered Travel Discovery
+
+Travel discovery and trip-planning product that helps users find places, organize destinations, and generate personalized routes.
+
+- Built and shipped features across web, React Native mobile, backend, data, administration, moderation, authentication, and cloud workflows.
+- Developed LLM-assisted route-generation and recommendation flows using Python, Google Maps and Places data, structured outputs, validation, context handling, and fallback logic.
+- Worked with Next.js, React, React Native, Expo, TypeScript, FastAPI, Firebase, Supabase, PostgreSQL, REST APIs, Docker, and cloud services.
+
+[Website](https://www.exploreapphq.com/) · [App Store](https://apps.apple.com/us/app/explore-tourism/id6748882805) · [Google Play](https://play.google.com/store/apps/details?id=com.explore.miapp&hl=en_US) · [Public Web/Admin Repository](https://github.com/JosvierR/exploreapphq)
+
+### MOSAIC — Academic Scheduling Optimization
+
+University timetabling platform designed to generate and evaluate feasible academic schedules.
+
+- Built strict dataset validation, hard and soft constraint modeling, KPI evaluation, scenario comparison, and operational recommendations.
+- Developed a multi-stage optimization engine combining Google OR-Tools CP-SAT, heuristic repair, and Tabu Search.
+- Built with Next.js, Python, PostgreSQL, and optimization tooling.
+
+### Donantes Inteligente — Blood Demand Forecasting
+
+Healthcare-oriented platform for forecasting blood demand by province, date, blood type, and healthcare facility.
+
+- Contributed to machine-learning forecasting, data preparation, model evaluation, FastAPI services, dashboards, reporting workflows, and data visualization.
+- Helped transform healthcare data into operational views that support blood inventory planning and decision-making.
+
+[Donantes RDSV Platform](https://donantes.com.do/)
+
+### KOUL — Analytics & AI Platform
+
+Modular platform designed to transform raw business data into standardized datasets, KPI-ready views, analytics, and AI-assisted insights.
+
+- Designed a RAW → standardized → business data architecture.
+- Worked across ingestion, validation, backend APIs, analytics workflows, dashboards, and cloud deployment.
+- Technology included Python, FastAPI, BigQuery, Docker, Google Cloud Run, SQL, and LLM workflows.
+
+### Anatomy AR Tutor — Augmented Reality Education
+
+Mobile augmented-reality learning application built with Unity and AR Foundation.
+
+- Supports marker-based organ visualization, guided lessons, free exploration, interactive quizzes, and modular educational content.
+- Built with Unity 2022 LTS, C#, AR Foundation, ARCore/ARKit, ScriptableObjects, and TextMeshPro.
+
+[View Repository](https://github.com/JosvierR/AnatomyVr)
+
+### Additional Delivery Experience
+
+- Built fleet, dispatch, driver, map-visibility, monitoring, and reporting workflows for transportation operations.
+- Developed dashboards, administrative portals, CRUD systems, invoicing tools, business directories, real-estate workflows, sensor-monitoring interfaces, and secure role-based applications.
+- Delivered a transportation management system for operational use by a company.
+
+---
+
+## Education & Credentials
+
+**Bachelor of Engineering in Computer Science Engineering**  
+Pontificia Universidad Católica Madre y Maestra — 2026
+
+- **CS109xa: Machine Learning and AI with Python** — HarvardX
+- **AWS Academy Graduate: Cloud Developing** — AWS Academy
+- **HTML, CSS, and JavaScript for Web Developers** — Johns Hopkins University
+- **Fundamentals of Entrepreneurship: Thinking and Action** — University of California, Irvine
+- **HCIA-Security V4.0** — Huawei ICT Academy
+- **Incubation Program 2026** — Innovación Humanista
+
+---
+
+## Engineering Approach
+
+- Build for the user and the operational problem, not only the technical specification.
+- Prefer clear architecture, maintainable code, validation, testing, observability, and secure access controls.
+- Take features from requirements through implementation, deployment, debugging, and iteration.
+- Communicate openly across engineering, product, design, and business teams.
+
+---
+
+## Contact
+
+I am open to full-time **Software Engineer, Full-Stack Engineer, Backend Engineer, and AI-enabled product engineering** opportunities.
+
+- Portfolio: [josvierr.github.io](https://josvierr.github.io/)
+- LinkedIn: [Josvier Rodriguez](https://www.linkedin.com/in/josvier-rodriguez-4b053730a)
+- Email: [josvierp@gmail.com](mailto:josvierp@gmail.com)
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JosvierR&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosvierR&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 What I'm Building
-
-- AI-powered mobile experiences  
-- Data dashboards and forecasting systems  
-- Web platforms for real business operations  
-- Backend APIs and admin systems  
-- LLM-powered tools and intelligent workflows  
-- Clean products with strong UX and scalable architecture  
-
----
-
-<div align="center">
-
-### Building software with vision, precision, design, and AI.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:6E40C9&height=120&section=footer"/>
+**Building reliable products where software, data, and AI create measurable value.**
 
 </div>
