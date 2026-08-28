@@ -4,7 +4,7 @@
 
 ### Software Engineer · Full-Stack · Backend · AI-Enabled Products
 
-Computer Science Engineering graduate with 2+ years of hands-on experience building and shipping web, mobile, backend, data, cloud, and AI-enabled products.
+Computer Science Engineering graduate with 3+ years of hands-on experience building and shipping web, mobile, backend, data, cloud, and AI-enabled products.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://josvierr.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josvier-rodriguez-4b053730a)
